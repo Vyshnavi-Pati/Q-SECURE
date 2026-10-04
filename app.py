@@ -893,8 +893,8 @@ st.divider()
 
 st.markdown(
     "<div class='team-footer'>"
-    "Odyssey • Vyshnavi — Team Leader • "
-    "Jasmin — Team Member • "
+    "Odyssey • Vyshnavi • "
+    "Jasmin • "
     "Rajiv Gandhi University of Knowledge Technologies, Nuzvid"
     "</div>",
     unsafe_allow_html=True,
