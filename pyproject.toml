@@ -1,0 +1,13 @@
+[project]
+name = "q-secure"
+version = "0.1.0"
+description = "Interactive BB84 quantum key distribution and eavesdropper detection"
+requires-python = ">=3.10,<3.14"
+
+dependencies = [
+    "qiskit>=2.0,<3.0",
+    "streamlit>=1.40,<2.0",
+]
+
+[tool.uv]
+package = false
